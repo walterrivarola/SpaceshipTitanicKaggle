@@ -19,3 +19,6 @@ Repositorio del proyecto de Kaggle "Spaceship Titanic" donde se explora el desaf
 * Bibliotecas de aprendizaje automático: scikit-learn.
 * Bibliotecas de análisis de datos: Pandas, NumPy, Matplotlib, Seaborn.
 * Jupyter Notebook.
+
+# URL DATASETS
+https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv
